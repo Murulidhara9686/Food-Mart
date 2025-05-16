@@ -1,4 +1,4 @@
-Food Mone is a responsive front-end React project. It's designed for beginners to practice core React concepts while building a visually appealing food-themed landing page.
+Food Mart is a responsive front-end React project. It's designed for beginners to practice core React concepts while building a visually appealing food-themed landing page.
 
 🚀 Features
 Responsive and mobile-friendly layout
